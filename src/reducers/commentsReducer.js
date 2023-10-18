@@ -1,4 +1,4 @@
-import * as actions from "../actions/commentActions";
+import * as actions from "../actions/commentsActions";
 
 const initialState = {
   comments: [],

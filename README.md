@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Demo for fetching and storing data in Pure redux store
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an outdated way of doing redux but it might help if maintaing legacy code for more of a mordern approach visit [Redux website](https://redux.js.org/).
 
 ## Available Scripts
 
